@@ -1,18 +1,32 @@
-# Vue 3 + TypeScript + Vite
+# 🎮 CS2 - Counter-Strike 2
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+CS2 (Counter-Strike 2) is a competitive first-person shooter game that builds on the legacy of the popular CS:GO game. With a cutting-edge graphical engine and physics-based mechanics, CS2 immerses players in intense tactical battles with an unprecedented level of realism.
 
-## Recommended IDE Setup
+![CS2 Preview](https://github.com/Oskar-Sterner/CS2/blob/main/src/assets/preview.gif)
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## 📝 Description
 
-## Type Support For `.vue` Imports in TS
+Choose your side and work with your team to outsmart and outgun your opponents in fast-paced, skill-based gameplay. With an expanded arsenal of weapons, maps, and game modes, CS2 offers a new level of depth and challenge for both veteran and new players alike.
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin) to make the TypeScript language service aware of `.vue` types.
+This project is an application designed to showcase the new potentials of CS2 and provide information about the game.
 
-If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has also implemented a [Take Over Mode](https://github.com/johnsoncodehk/volar/discussions/471#discussioncomment-1361669) that is more performant. You can enable it by the following steps:
+## 🚀 Features
 
-1. Disable the built-in TypeScript Extension
-   1. Run `Extensions: Show Built-in Extensions` from VSCode's command palette
-   2. Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
-2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
+- Cutting-edge graphical engine and physics-based mechanics
+- Intense tactical battles with an unprecedented level of realism
+- Fast-paced, skill-based gameplay
+- Expanded arsenal of weapons, maps, and game modes
+
+## 🛠️ Built with
+
+- Vue
+- TypeScript
+- SCSS
+
+## 💻 Getting started
+
+To get a local copy up and running follow these simple steps:
+
+1. Clone the repository: `git clone https://github.com/Oskar-Sterner/CS2`
+2. Install the dependencies: `npm install`
+3. Run the app: `npm run dev`
